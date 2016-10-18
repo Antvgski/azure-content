@@ -1,4 +1,4 @@
-<properties
+7<properties
 	pageTitle="Select rows to migrate by using a filter function (Stretch Database) | Microsoft Azure"
 	description="Learn how to select rows to migrate by using a filter function."
 	services="sql-server-stretch-database"
@@ -13,8 +13,8 @@
 	ms.tgt_pltfrm="na"
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="06/28/2016"
-	ms.author="douglasl"/>
+	ms.date="10/18/2016"
+	ms.author="anvang"/>
 
 # Select rows to migrate by using a filter function (Stretch Database)
 
