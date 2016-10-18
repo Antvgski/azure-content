@@ -3,7 +3,7 @@
 	description="Learn how to manage and troubleshoot Stretch Database."
 	services="sql-server-stretch-database"
 	documentationCenter=""
-	authors="douglaslMS"
+	authors="AntvgSki"
 	manager=""
 	editor=""/>
 
@@ -13,7 +13,7 @@
 	ms.tgt_pltfrm="na"
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="06/27/2016"
+	ms.date="10/27/2016"
 	ms.author="douglasl"/>
 
 # Manage and troubleshoot Stretch Database
